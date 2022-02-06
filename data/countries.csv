@@ -1,0 +1,265 @@
+code,id,is_country,name
+ABW,1,true,Aruba
+AFG,2,true,Afghanistan
+AGO,3,true,Angola
+ALB,4,true,Albania
+AND,5,true,Andorra
+ARB,6,false,Arab World
+ARE,7,true,United Arab Emirates
+ARG,8,true,Argentina
+ARM,9,true,Armenia
+ASM,10,true,American Samoa
+ATG,11,true,Antigua and Barbuda
+AUS,12,true,Australia
+AUT,13,true,Austria
+AZE,14,true,Azerbaijan
+BDI,15,true,Burundi
+BEL,16,true,Belgium
+BEN,17,true,Benin
+BFA,18,true,Burkina Faso
+BGD,19,true,Bangladesh
+BGR,20,true,Bulgaria
+BHR,21,true,Bahrain
+BHS,22,true,Bahamas
+BIH,23,true,Bosnia and Herzegovina
+BLR,24,true,Belarus
+BLZ,25,true,Belize
+BMU,26,true,Bermuda
+BOL,27,true,Bolivia
+BRA,28,true,Brazil
+BRB,29,true,Barbados
+BRN,30,true,Brunei Darussalam
+BTN,31,true,Bhutan
+BWA,32,true,Botswana
+CAF,33,true,Central African Republic
+CAN,34,true,Canada
+CEB,35,false,Central Europe and the Baltics
+CHE,36,true,Switzerland
+CHI,37,true,Channel Islands
+CHL,38,true,Chile
+CHN,39,true,China
+CIV,40,true,Cote d'Ivoire
+CMR,41,true,Cameroon
+COD,42,true,Dem. Rep. Congo
+COG,43,true,Congo Rep.
+COL,44,true,Colombia
+COM,45,true,Comoros
+CPV,46,true,Cabo Verde
+CRI,47,true,Costa Rica
+CSS,48,false,Caribbean small states
+CUB,49,true,Cuba
+CUW,50,true,Curacao
+CYM,51,true,Cayman Islands
+CYP,52,true,Cyprus
+CZE,53,true,Czech Republic
+DEU,54,true,Germany
+DJI,55,true,Djibouti
+DMA,56,true,Dominica
+DNK,57,true,Denmark
+DOM,58,true,Dominican Republic
+DZA,59,true,Algeria
+EAP,60,false,East Asia & Pacific (excluding high income)
+EAR,61,false,Early-demographic dividend
+EAS,62,false,East Asia & Pacific
+ECA,63,false,Europe & Central Asia (excluding high income)
+ECS,64,false,Europe & Central Asia
+ECU,65,true,Ecuador
+EGY,66,true,Egypt
+EMU,67,false,Euro area
+ERI,68,true,Eritrea
+ESP,69,true,Spain
+EST,70,true,Estonia
+ETH,71,true,Ethiopia
+EUU,72,false,European Union
+FCS,73,false,Fragile and conflict affected situations
+FIN,74,true,Finland
+FJI,75,true,Fiji
+FRA,76,true,France
+FRO,77,true,Faroe Islands
+FSM,78,true,Micronesia Fed. Sts.
+GAB,79,true,Gabon
+GBR,80,true,United Kingdom
+GEO,81,true,Georgia
+GHA,82,true,Ghana
+GIB,83,true,Gibraltar
+GIN,84,true,Guinea
+GMB,85,true,Gambia
+GNB,86,true,Guinea-Bissau
+GNQ,87,true,Equatorial Guinea
+GRC,88,true,Greece
+GRD,89,true,Grenada
+GRL,90,true,Greenland
+GTM,91,true,Guatemala
+GUM,92,true,Guam
+GUY,93,true,Guyana
+HIC,94,false,High income
+HKG,95,true,Hong Kong
+HND,96,true,Honduras
+HPC,97,false,Heavily indebted poor countries (HIPC)
+HRV,98,true,Croatia
+HTI,99,true,Haiti
+HUN,100,true,Hungary
+IBD,101,false,IBRD only
+IBT,102,false,IDA & IBRD total
+IDA,103,false,IDA total
+IDB,104,false,IDA blend
+IDN,105,true,Indonesia
+IDX,106,false,IDA only
+IMN,107,true,Isle of Man
+IND,108,true,India
+INX,109,false,Not classified
+IRL,110,true,Ireland
+IRN,111,true,Iran
+IRQ,112,true,Iraq
+ISL,113,true,Iceland
+ISR,114,true,Israel
+ITA,115,true,Italy
+JAM,116,true,Jamaica
+JOR,117,true,Jordan
+JPN,118,true,Japan
+KAZ,119,true,Kazakhstan
+KEN,120,true,Kenya
+KGZ,121,true,Kyrgyz Republic
+KHM,122,true,Cambodia
+KIR,123,true,Kiribati
+KNA,124,true,St. Kitts and Nevis
+KOR,125,true,South Korea
+KWT,126,true,Kuwait
+LAC,127,false,Latin America & Caribbean (excluding high income)
+LAO,128,true,Lao PDR
+LBN,129,true,Lebanon
+LBR,130,true,Liberia
+LBY,131,true,Libya
+LCA,132,true,St. Lucia
+LCN,133,false,Latin America & Caribbean
+LDC,134,false,Least developed countries: UN classification
+LIC,135,false,Low income
+LIE,136,true,Liechtenstein
+LKA,137,true,Sri Lanka
+LMC,138,false,Lower middle income
+LMY,139,false,Low & middle income
+LSO,140,true,Lesotho
+LTE,141,false,Late-demographic dividend
+LTU,142,true,Lithuania
+LUX,143,true,Luxembourg
+LVA,144,true,Latvia
+MAC,145,true,Macao
+MAF,146,true,St. Martin (French part)
+MAR,147,true,Morocco
+MCO,148,true,Monaco
+MDA,149,true,Moldova
+MDG,150,true,Madagascar
+MDV,151,true,Maldives
+MEA,152,false,Middle East & North Africa
+MEX,153,true,Mexico
+MHL,154,true,Marshall Islands
+MIC,155,false,Middle income
+MKD,156,true,North Macedonia
+MLI,157,true,Mali
+MLT,158,true,Malta
+MMR,159,true,Myanmar
+MNA,160,false,Middle East & North Africa (excluding high income)
+MNE,161,true,Montenegro
+MNG,162,true,Mongolia
+MNP,163,true,Northern Mariana Islands
+MOZ,164,true,Mozambique
+MRT,165,true,Mauritania
+MUS,166,true,Mauritius
+MWI,167,true,Malawi
+MYS,168,true,Malaysia
+NAC,169,false,North America
+NAM,170,true,Namibia
+NCL,171,true,New Caledonia
+NER,172,true,Niger
+NGA,173,true,Nigeria
+NIC,174,true,Nicaragua
+NLD,175,true,Netherlands
+NOR,176,true,Norway
+NPL,177,true,Nepal
+NRU,178,true,Nauru
+NZL,179,true,New Zealand
+OED,180,false,OECD members
+OMN,181,true,Oman
+OSS,182,false,Other small states
+PAK,183,true,Pakistan
+PAN,184,true,Panama
+PER,185,true,Peru
+PHL,186,true,Philippines
+PLW,187,true,Palau
+PNG,188,true,Papua New Guinea
+POL,189,true,Poland
+PRE,190,false,Pre-demographic dividend
+PRI,191,true,Puerto Rico
+PRK,192,true,North Korea
+PRT,193,true,Portugal
+PRY,194,true,Paraguay
+PSE,195,true,West Bank and Gaza
+PSS,196,false,Pacific island small states
+PST,197,false,Post-demographic dividend
+PYF,198,true,French Polynesia
+QAT,199,true,Qatar
+ROU,200,true,Romania
+RUS,201,true,Russian Federation
+RWA,202,true,Rwanda
+SAS,203,false,South Asia
+SAU,204,true,Saudi Arabia
+SDN,205,true,Sudan
+SEN,206,true,Senegal
+SGP,207,true,Singapore
+SLB,208,true,Solomon Islands
+SLE,209,true,Sierra Leone
+SLV,210,true,El Salvador
+SMR,211,true,San Marino
+SOM,212,true,Somalia
+SRB,213,true,Serbia
+SSA,214,false,Sub-Saharan Africa (excluding high income)
+SSD,215,true,South Sudan
+SSF,216,false,Sub-Saharan Africa
+SST,217,false,Small states
+STP,218,true,Sao Tome and Principe
+SUR,219,true,Suriname
+SVK,220,true,Slovak Republic
+SVN,221,true,Slovenia
+SWE,222,true,Sweden
+SWZ,223,true,Eswatini
+SXM,224,true,Sint Maarten (Dutch part)
+SYC,225,true,Seychelles
+SYR,226,true,Syrian Arab Republic
+TCA,227,true,Turks and Caicos Islands
+TCD,228,true,Chad
+TEA,229,false,East Asia & Pacific (IDA & IBRD countries)
+TEC,230,false,Europe & Central Asia (IDA & IBRD countries)
+TGO,231,true,Togo
+THA,232,true,Thailand
+TJK,233,true,Tajikistan
+TKM,234,true,Turkmenistan
+TLA,235,false,Latin America & the Caribbean (IDA & IBRD countries)
+TLS,236,true,Timor-Leste
+TMN,237,false,Middle East & North Africa (IDA & IBRD countries)
+TON,238,true,Tonga
+TSA,239,false,South Asia (IDA & IBRD)
+TSS,240,false,Sub-Saharan Africa (IDA & IBRD countries)
+TTO,241,true,Trinidad and Tobago
+TUN,242,true,Tunisia
+TUR,243,true,Turkey
+TUV,244,true,Tuvalu
+TZA,245,true,Tanzania
+UGA,246,true,Uganda
+UKR,247,true,Ukraine
+UMC,248,false,Upper middle income
+URY,249,true,Uruguay
+USA,250,true,United States
+UZB,251,true,Uzbekistan
+VCT,252,true,St. Vincent and the Grenadines
+VEN,253,true,Venezuela
+VGB,254,true,British Virgin Islands
+VIR,255,true,Virgin Islands (U.S.)
+VNM,256,true,Vietnam
+VUT,257,true,Vanuatu
+WLD,258,false,World
+WSM,259,true,Samoa
+XKX,260,true,Kosovo
+YEM,261,true,Yemen
+ZAF,262,true,South Africa
+ZMB,263,true,Zambia
+ZWE,264,true,Zimbabwe
